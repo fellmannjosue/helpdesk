@@ -19,10 +19,12 @@ body {
     padding: 10px;
 }
 
-.navbar-color{
+.navbar-colordocente{
     background-color: #C6832F;
 }
-
+.navbar-coloradmin{
+    background-color: #439eff;
+}
 .container {
     background: #91979F;
     max-width: 500px;
